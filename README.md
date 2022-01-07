@@ -1,5 +1,5 @@
 # Project Summary
-The data visualzation dashboard represents spatio-temporal statistics ana analysis of the Canadian forest fires for the years 1950 to 2020. This dashboard helps understanding complex data in simple form. In the near future I will be adding more complex stattsical analysis in the dashboard with more functionalities. 
+The data visualzation dashboard represents spatio-temporal statistics and comprehensive analysis of the Canadian forest fires for the years 1950 to 2020. This dashboard helps staeholders understanding complex data into the simpler form. In the near future I will be adding more complex stattsical analysis in the dashboard with more functionalities. 
 
 
 Built with 
